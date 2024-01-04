@@ -1,0 +1,1 @@
+load(io.popen('oh-my-posh init cmd --config F:/Download/oh-my-posh-main/themes/gmay.omp.json'):read("*a"))()
